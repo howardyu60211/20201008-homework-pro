@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Howard_Yu/Desktop/code/school/homework/20201008-homework-pro/755299/book.cpp
+iostream
+-
+algorithm
+-
+string
+-
+
+C:/Users/Howard_Yu/Desktop/code/school/homework/20201008-homework-pro/755299/cctype.cpp
+iostream
+-
+cctype
+-
+
+C:/Users/Howard_Yu/Desktop/code/school/homework/20201008-homework-pro/755299/set.cpp
+iostream
+-
+set
+-
+algorithm
+-
+vector
+-
+

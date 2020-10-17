@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\hypot.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\hypot.dir/objects.a @CMakeFiles\hypot.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\hypot.dir/objects.a -Wl,--no-whole-archive  -o hypot.exe -Wl,--out-implib,libhypot.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\hypot.dir\linklibs.rsp
